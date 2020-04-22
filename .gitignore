@@ -2,8 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/LINQSample/v15
-/Common/bin/Debug
-/Common/obj/Debug
-/Win/bin/Debug
-/Win/obj/Debug
+/Common/bin
+/Common/obj
+/Win/bin
+/Win/obj

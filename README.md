@@ -4,7 +4,7 @@
 
 Sample program with some LINQ functions.
 
-Although LINQ allows us to use a SQL-like syntax embddd in C#, here we just use the undrlying methods, which still let us perform some interesting data manipulations.
+Although LINQ allows us to use a SQL-like syntax embedded in C#, here we just use the undrlying methods, which still let us perform some interesting data manipulations.
 
 The application consists of a window showing a list of person records paginated 10 by 10.
 

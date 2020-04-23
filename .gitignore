@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Common/bin
-/Common/obj
-/Win/bin
-/Win/obj
+**/bin
+**/obj
+*.csproj.user
+.suo

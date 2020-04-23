@@ -7,7 +7,7 @@ namespace areyesram.DB
 {
     public class Person
     {
-        private static List<BE.Person> _cache = null;
+        private static List<BE.Person> _cache;
 
         public static List<BE.Person> List()
         {

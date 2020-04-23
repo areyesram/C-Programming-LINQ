@@ -1,17 +1,21 @@
 # C# Programming: LINQ
 
-Programa de ejemplo con algunas funciones de LINQ. 
-Si bien LINQ permite usar una sintaxis similar a SQL embebida dentro de C#, aquí nos limitamos a usar los métodos subyacientes, que aun así nos permiten realizar manipulaciones de datos interesantes. 
+[*Versión en español*](./README-es.md)
 
-La aplicación consta de una ventana que muestra una lista de personas paginada de 10 en 10. 
+Sample program with some LINQ functions.
 
-Los datos no se encuentran en una base de datos, sino en un archivo CSV con datos generados al azar a través de una herramienta en línea [►](https://www.generatedata.com/). 
+Although LINQ allows us to use a SQL-like syntax embddd in C#, here we just use the undrlying methods, which still let us perform some interesting data manipulations.
 
-Puntos de interés:
+The application consists of a window showing a list of person records paginated 10 by 10.
+
+Data itself is not in a database, but a CSV file randomly generated using an online tool [►](https://www.generatedata.com/).
+
+Points of interest:
 
 * Windows Forms [►](https://docs.microsoft.com/en-us/dotnet/framework/winforms/).
   * Data binding
-* Funciones de LINQ [►](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
-  * Filtrado
-  * Paginación
+* LINQ functions [►](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+  * Filtering
+  * Transformation
+  * Pagination
 * Caching (simple)
